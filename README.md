@@ -16,3 +16,14 @@ AI Assessment Engine — scored assessments, maturity models and gap analysis fo
 
 ---
 © 2026 Zion Tech Group · https://ziontechgroup.com/
+
+---
+🗂️ [Master directory — Zion App Network](https://github.com/Zion-support/zion-app-network) · Live hub: https://ziontechgroup.com/zion-app-network/ · 💼 Plans: https://ziontechgroup.com/en/plans/ · 📞 Discovery call: https://ziontechgroup.com/discovery/ · 🧰 All tools: https://ziontechgroup.com/tools/
+
+**Related apps:**
+- [ai-audio-engine](https://github.com/Zion-support/ai-audio-engine) — https://ziontechgroup.com/ai-audio-engine/
+- [ai-readiness-assessment](https://github.com/Zion-support/ai-readiness-assessment) — https://ziontechgroup.com/ai-readiness-assessment/
+- [ai-reasoning-engine](https://github.com/Zion-support/ai-reasoning-engine) — https://ziontechgroup.com/ai-reasoning-engine/
+- [cybersecurity-risk-assessment](https://github.com/Zion-support/cybersecurity-risk-assessment) — https://ziontechgroup.com/cybersecurity-risk-assessment/
+
+© 2026 Zion Tech Group · https://ziontechgroup.com/
