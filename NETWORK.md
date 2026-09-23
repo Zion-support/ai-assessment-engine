@@ -1,16 +1,10 @@
-# 👐 Zion App Network — Interlinks
+# AI Assessment Engine
 
-**ai-assessment-engine** is part of the Zion Tech Group app network (630+ apps).
+Assessment and scoring engine.
 
-- 🗂 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂 Category: [Business Tools & Calculators](https://github.com/Zion-support/zion-network/blob/main/network/business-tools-calculators.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [ai-readiness-assessment](https://github.com/Zion-support/ai-readiness-assessment) · [ai-readiness-score](https://github.com/Zion-support/ai-readiness-score) · [zion-ai-readiness-quiz](https://github.com/Zion-support/zion-ai-readiness-quiz) · [zion-data-readiness-audit](https://github.com/Zion-support/zion-data-readiness-audit)
 
-## Related apps
-- [ai-readiness-assessment](https://github.com/Zion-support/ai-readiness-assessment) — AI adoption roadmap
-- [zion-ai-readiness-quiz](https://github.com/Zion-support/zion-ai-readiness-quiz) — interactive readiness quiz
-- [managed-it-health-check](https://github.com/Zion-support/managed-it-health-check) — IT ops self-assessment
-- [cybersecurity-risk-assessment](https://github.com/Zion-support/cybersecurity-risk-assessment) — security posture scoring
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
